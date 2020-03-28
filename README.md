@@ -5,7 +5,7 @@ Automated Surveillance and Isolation (ASI)
 - Little quarantine space as against predicted boom in Nigeria
 - Wide reach of surveillance
 
-![]()
+![](https://github.com/josoga2/quarIsolate/blob/master/Photo%20from%20'Wale%20Joseph.jpg)
 
 ## Aim of the project
 To:
