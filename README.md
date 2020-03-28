@@ -19,7 +19,7 @@ To:
 	- if more than 10 persons in the same local government are within this range, the local govt. is locked down 	and the indigenes are monitored/taken care of.
 	- greater than 11 (the coronavirus zone); the person is immediately marked for isolation by the hospital ambulance to a participating hotel.
 
-- Proposed technology
+### Proposed technology
 - Data collection:
 - HTML/CSS/JS
 - USSD client
