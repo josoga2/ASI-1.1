@@ -1,6 +1,12 @@
 # quarIsolate
 Automated Surveillance and Isolation (ASI)
 
+## Problems
+- Little quarantine space as against predicted boom in Nigeria
+- Wide reach of surveillance
+
+![]()
+
 ## Aim of the project
 To:
 - Improve the quantity and quality of isolation space, by making use of hotels (voluntary)
