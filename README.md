@@ -27,7 +27,7 @@ To:
 
 ### Proposed technology
 - Data collection:
-- HTML/CSS/JS
+- Wordpress (HTML/CSS/JS)
 - USSD client
 - Android OS
 
