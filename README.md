@@ -1,4 +1,4 @@
-# quarIsolate
+# ASI 1.1
 Automated Surveillance and Isolation (ASI)
 
 ## AIM
