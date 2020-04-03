@@ -2,17 +2,15 @@
 Automated Surveillance and Isolation (ASI)
 
 ## Problems
+- Real time surveillance, tracking and prediction of COVID-19 spread
 - Little quarantine space as against predicted boom in Nigeria
-- Wide reach of surveillance
 
 ![](https://github.com/josoga2/quarIsolate/blob/master/statistics.png)
 
 ## Aim of the project
 To:
-- Improve the quantity and quality of isolation space, by making use of hotels (voluntary)
 - assist in the tracking and control of the spread of coronavirus via real time analytics
-
-
+- Improve the quantity and quality of isolation space, by making use of hotels (voluntary)
 
 ## How
 - Nigerians are urged to perform daily e-checkup either via website or app. For those that are not smart phone friendly: A USSD unique USSD code will be devloped in collaboration with NCDC
